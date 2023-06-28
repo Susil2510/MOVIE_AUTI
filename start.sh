@@ -6,7 +6,7 @@ else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /MOVIE_AUTI
 fi
-cd /DQ-_TOM
+cd /MOVIE_AUTI
 pip3 install -U -r requirements.txt
 echo "Starting DQ-_TOM...."
 python3 bot.py
