@@ -4,7 +4,7 @@ then
   git clone https://github.com/Susil2510/MOVIE_AUTI.git /MOVIE_AUTI
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /DQ-_TOM
+  git clone $UPSTREAM_REPO /MOVIE_AUTI
 fi
 cd /DQ-_TOM
 pip3 install -U -r requirements.txt
