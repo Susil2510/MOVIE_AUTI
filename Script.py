@@ -282,9 +282,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 🌿ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/Susil25sk'>Ʀsᴋ sᴜsɪʟ</a>
 
-🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴄʟɪᴄᴋ ʜᴇʀᴇ🙌</a>"""
-
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Susil25sk">sᴜsɪʟ ᠰ ᴋᴜᴍᴀʀ</a></b> 🌿</b>"""
+🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴄʟɪᴄᴋ ʜᴇʀᴇ🙌</a>"""</b>
     DISC_TXT = """
 <b><code>ᴛʜɪꜱ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
