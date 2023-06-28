@@ -31,8 +31,7 @@ dnspython
 python-math
 psutil==5.9.4
 speedtest-cli
-
-
+asgiref
 python-dotenv
 openai==0.25.0
 python-telegram-bot==12.8
